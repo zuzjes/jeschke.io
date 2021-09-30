@@ -12,8 +12,9 @@ export default function Home() {
         <h1 className={styles.title}>
           <b>jeschke.io</b>
         </h1>
-        <p>
-          <a href="mailto:zuz@zuzjes.com">zuz@zuzjes.com</a>
+        <p style={{textAlign: "center"}}>
+          <a href="mailto:zuz@zuzjes.com">zuz@zuzjes.com</a><br/>
+          <a href="https://zuzjes.com/">zuzjes.com</a>
         </p>
       </main>
     </div>
